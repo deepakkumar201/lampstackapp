@@ -1,1 +1,1 @@
-# lampstackapp
+# lampstack-app
